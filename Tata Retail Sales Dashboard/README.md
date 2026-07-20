@@ -58,12 +58,17 @@ Data Visualization
 Business Analysis
 Storytelling with Data
 📷 Dashboard Preview
+
 Executive Dashboard
 <img width="1917" height="972" alt="Dashboard" src="https://github.com/user-attachments/assets/9fa62028-709f-4794-8290-0138253898f9" />
 Individual Report Pages
+Question 1
 <img width="1917" height="1016" alt="Question 1" src="https://github.com/user-attachments/assets/0e7c0035-70e2-480c-8e04-0be035e42240" />
+Question 2 
 <img width="1917" height="1016" alt="Question 2" src="https://github.com/user-attachments/assets/316f16fa-a25a-48ad-8b35-a2f91731fc73" />
+Question 3
 <img width="1917" height="1017" alt="Question 3" src="https://github.com/user-attachments/assets/df30740c-baa7-4fde-b744-43c6ff8dd676" />
+Question 4
 <img width="1917" height="1018" alt="Question 4" src="https://github.com/user-attachments/assets/c6c6f84a-2fcd-4a1e-bb77-ebd50022b461" />
 
 
