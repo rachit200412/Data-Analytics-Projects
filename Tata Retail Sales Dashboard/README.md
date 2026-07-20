@@ -1,72 +1,79 @@
-📊 Retail Sales Analysis using Power BI
+📊 Retail Sales Dashboard using Power BI
 📌 Project Overview
 
 This project was completed as part of the Tata Data Visualisation: Empowering Business with Effective Insights Virtual Experience Program on Forage.
 
-The objective was to analyze an online retail dataset and create Power BI visualizations that answer business questions from the CEO and CMO. The project demonstrates the complete workflow from data cleaning to business insight generation.
+The objective was to analyze an online retail dataset, clean and transform the data, and build an interactive Power BI Executive Dashboard to help business leaders make data-driven decisions.
+
+The dashboard answers key business questions related to revenue trends, customer performance, country-wise sales, and product demand.
 
 🎯 Business Objectives
 
-The following analyses were completed:
+The dashboard was designed to answer the following business questions:
 
-📈 Monthly Revenue Trend for 2011
-🌍 Top 10 Countries by Revenue (excluding the United Kingdom)
-👥 Top 10 Customers by Revenue
-📦 Product Demand by Country (excluding the United Kingdom)
-🧹 Data Cleaning
+📈 How did monthly revenue change throughout 2011?
+🌍 Which are the Top 10 Revenue-Generating Countries (excluding the United Kingdom)?
+👥 Who are the Top 10 Customers by revenue?
+📦 Which countries show the highest product demand for future expansion?
+🧹 Data Cleaning & Transformation
 
-Before building the visualizations, the dataset was cleaned by:
+Before analysis, the dataset was cleaned using Power Query.
+
+Data preparation included:
 
 Removing records where Quantity < 1
 Removing records where Unit Price ≤ 0
-Creating a new Revenue column using:
+Creating a calculated Revenue column
 Revenue = Quantity × Unit Price
-📊 Visualizations
-1. Monthly Revenue Trend (2011)
+📊 Dashboard Features
 
-A line chart showing monthly revenue throughout 2011 to identify seasonal sales trends.
+The Executive Dashboard includes:
 
-2. Top 10 Countries by Revenue
-
-A clustered bar chart comparing revenue and quantity sold for the top-performing countries (excluding the United Kingdom).
-
-3. Top 10 Customers by Revenue
-
-A column chart highlighting the highest revenue-generating customers.
-
-4. Product Demand by Country
-
-A map visualization displaying product demand across different countries to identify potential expansion opportunities.
-
+📈 Monthly Revenue Trend (2011)
+🌍 Top 10 Countries by Revenue
+👥 Top 10 Customers by Revenue
+🗺️ Product Demand by Country
+📌 Interactive filters and business-focused visualizations
+📊 Executive summary for quick decision-making
 🛠️ Tools & Technologies
 Power BI
 Power Query
 DAX
 Microsoft Excel
 Data Visualization
+Business Intelligence
 📈 Key Insights
-Monthly revenue trends reveal seasonal fluctuations in customer purchases.
-A small number of customers contribute a significant share of total revenue.
-Several international markets show strong sales performance outside the United Kingdom.
-Country-wise demand analysis can support future business expansion decisions.
+Revenue showed clear seasonal trends throughout 2011.
+A small group of customers contributed a significant share of total revenue.
+Several international markets generated strong revenue outside the United Kingdom.
+Country-level demand analysis highlights potential regions for business expansion.
 💡 Skills Demonstrated
 Data Cleaning
 Data Transformation
 Power Query
-DAX Calculations
+DAX
+Dashboard Design
 Business Intelligence
 Data Visualization
-Dashboard Development
-Business Insight Generation
+Business Analysis
 Storytelling with Data
-📷 Project Preview
+📷 Dashboard Preview
 
-![alt text](Question1-1.png)
-![alt text](<Question 2.png>)
-![alt text](<Question 3.png>)
-![alt text](<Question 4.png>)
+Executive Dashboard
+<img width="1917" height="972" alt="Dashboard" src="https://github.com/user-attachments/assets/9fa62028-709f-4794-8290-0138253898f9" />
+Individual Report Pages
+Question 1
+<img width="1917" height="1016" alt="Question 1" src="https://github.com/user-attachments/assets/0e7c0035-70e2-480c-8e04-0be035e42240" />
+Question 2 
+<img width="1917" height="1016" alt="Question 2" src="https://github.com/user-attachments/assets/316f16fa-a25a-48ad-8b35-a2f91731fc73" />
+Question 3
+<img width="1917" height="1017" alt="Question 3" src="https://github.com/user-attachments/assets/df30740c-baa7-4fde-b744-43c6ff8dd676" />
+Question 4
+<img width="1917" height="1018" alt="Question 4" src="https://github.com/user-attachments/assets/c6c6f84a-2fcd-4a1e-bb77-ebd50022b461" />
 
+
+Important: Remove the angle brackets (< >) from your image names. Use filenames without spaces if possible (e.g., Question2.png instead of Question 2.png) to avoid broken image links.
 
 📚 Dataset
 
-Online Retail Dataset provided as part of the Tata Forage Virtual Experience Program for educational purposes.
+Online Retail Dataset provided as part of the Tata Forage Virtual Experience Program for educational purposes
